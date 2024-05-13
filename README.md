@@ -73,3 +73,35 @@ Merge Sort'un Big-O gösterimi: O(nlogn)
 
 
 
+
+
+Proje 3 
+
+1.	Adım: root 7'dir. root'un soluna 5 eklenir.
+
+2.	Adım: root'un solundaki 5'in sağına 1 eklenir.
+	
+3.	Adım: root'un solundaki 5'in soluna 3 eklenir.
+	
+4.	Adım: root'un sağına 8 eklenir.
+	
+5.	Adım: root'un sağındaki 8'in sağına 9 eklenir.
+	
+6.	Adım: root'un solundaki 5'in solundaki 1'in soluna 0 eklenir.
+	
+7.	Adım: root'un solundaki 5'in solundaki 1'in sağına 2 eklenir.
+	
+8.	Adım: root'un solundaki 5'in sağındaki 3'ün sağına 4 eklenir.
+	
+9.	Adım: root'un solundaki 5'in sağındaki 3'ün soluna 6 eklenir.
+
+        7
+       / \
+      5   8
+     / \   \
+    1   3   9
+   /   / \
+  0   2   4
+         \
+          6
+
