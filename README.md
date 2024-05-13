@@ -95,13 +95,5 @@ Proje 3
 	
 9.	Adım: root'un solundaki 5'in sağındaki 3'ün soluna 6 eklenir.
 
-        7
-       / \
-      5   8
-     / \   \
-    1   3   9
-   /   / \
-  0   2   4
-         \
-          6
+  
 
