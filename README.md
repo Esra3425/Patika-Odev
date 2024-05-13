@@ -1,6 +1,5 @@
 # Patika-Odev
 Proje 1
-
 [22,27,16,2,18,6] -> Insertion Sort
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 [2,27,16,22,18,6],
@@ -42,4 +41,6 @@ Proje 2
 [8,11,12,16,21,22]
 
 Merge Sort'un Big-O gösterimi: O(nlogn)
+
+
 
